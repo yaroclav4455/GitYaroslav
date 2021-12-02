@@ -6,6 +6,6 @@ int main()
 {
     setlocale(0, "");
     string name = "Ярослав";
-    string str = "Привет";
+    string str = "Доброе утро";
     cout << str + name;
 }
